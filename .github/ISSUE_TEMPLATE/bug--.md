@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+**游戏版本**
+该bug出现在哪个游戏版本中？
+注：1.7.10 1.10.2 1.11.2 1.14.4版本不受支持
+
 **Bug描述**
 A clear and concise description of what the bug is.
 
