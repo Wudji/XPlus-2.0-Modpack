@@ -1,34 +1,33 @@
 ---
-name: Bug反馈
-about: 反馈整合包的bug
+name: Bug Report
+about: Report bugs in the modpack
 title: ''
 labels: bug
 assignees: ''
 
 ---
 
-**游戏版本**
-该bug出现在哪个游戏版本中？
-注：1.7.10 1.10.2 1.11.2 1.14.4版本不受支持
+**Game Version**
+In which game version does the bug occur?
+Note: Old versions are not supported.
 
-**Bug描述**
+**Bug Description**
 A clear and concise description of what the bug is.
 
-**如何重现**
-Steps to reproduce the behavior:
+**Steps to Reproduce**
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**你认为应该是什么样的**
+**Expected Behavior**
 A clear and concise description of what you expected to happen.
 
-**截图(如果有)**
-If applicable, add screenshots to help explain your problem.
+**Screenshots (if applicable)**
+If applicable, add screenshots to help explain the problem.
 
-**崩溃日志(如果有):**
+**Crash Logs (if applicable)**
 crash-report.txt latest.log
 
-**其他**
-更多信息
+**Additional Information**
+Any additional information or details that may be helpful.
